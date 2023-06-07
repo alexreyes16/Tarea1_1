@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Century Gothic', sans-serif;
+}
+
+.fondo {
+    background-image: url("https://www.xtrafondos.com/wallpapers/resized/estructura-abstracta-3d-gris-oscuro-3593.jpg?s=large");
+    background-size: cover;
+    background-position: center;
+}
+
+.box {
+    width: 600px;
+    background: rgba(0, 0, 0, .4);
+    margin: 0 auto;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+.box2 {
+    width: 600px;
+    background: rgba(0, 0, 0, .4);
+    margin: 0 auto;
+    padding-left: 120px;
+    padding-right: 120px;
+    text-align: center;
+    color: white;
+}
+
+.box3 table {
+    color: black
+}
+
+.box3 {
+    width: 600px;
+    background: rgba(0, 0, 0, .4);
+    margin: 0 auto;
+    padding-left: 120px;
+    padding-right: 120px;
+    text-align: center;
+    color: white;
+}
+
+.box2 table {
+    color: black
+}
+
+.box h6 {
+    font-size: 20px;
+    letter-spacing: 5px;
+}
+
+.box h3 {
+    font-size: 40px;
+    letter-spacing: 4px;
+}
+
+.img-box1 {
+    border-radius: 50%;
+}
+
+.img-box2 {
+    border-radius: 50%;
+}
+
+.info1 {
+    text-align: justify;
+}
